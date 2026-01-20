@@ -1,5 +1,10 @@
 # 📚 RIOcomicReader
 
+<img width="3824" height="1790" alt="image" src="https://raw.githubusercontent.com/QQcutePig/RIOcomicReader/refs/heads/main/0003.jpg" />
+
+<img width="3824" height="1790" alt="image" src="https://raw.githubusercontent.com/QQcutePig/RIOcomicReader/refs/heads/main/004.jpg" />
+
+
 🚀 快速開始
 
 Windows 前置需求: 安裝 Python 3.8+ 執行 run.bat
